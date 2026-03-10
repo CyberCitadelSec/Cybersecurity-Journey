@@ -31,3 +31,28 @@ daily learning notes
 ## Next Steps
 - Start Linux Fundamentals Part 1.
 - Begin networking basics.
+tryhackme-writeups/offensive-security-intro.md
+# TryHackMe — Offensive Security Intro  
+**Author:** CyberCitadelSec  
+**Date:** Day X  
+
+## 🧠 Overview  
+This room introduced the mindset of an ethical hacker and demonstrated how attackers find weaknesses before defenders do.
+
+## 🔍 Key Concepts Learned  
+- Offensive security = acting like an attacker  
+- Finding hidden pages  
+- Understanding admin panels  
+- Thinking like a hacker to identify vulnerabilities  
+
+## 🛠️ Skills Practiced  
+- Navigating a simulated environment  
+- Discovering hidden URLs  
+- Interacting with a vulnerable web app  
+- Triggering a flag through a money transfer exploit  
+
+## 📌 Summary  
+This was my first hands-on hacking room. It taught me how attackers think and how vulnerabilities can be exploited through hidden functionality.
+
+## 🎯 Next Room  
+Linux Fundamentals Part 1
